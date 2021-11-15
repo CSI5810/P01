@@ -1,0 +1,6 @@
+,feature_list,TTT_seed,MLP_seed,smote_yes,smote_no,smote_yes_oversample,hidden_layers,activation_function,learning_rate,batch_size,solver,fit_time,score_time,test_precision_macro,test_recall_macro
+0,"age, campaign, pdays, nr.employed, education_cat, month_cat, contact_cat, day_of_week_cat, y_cat, ",69,20,36537,36537,31898,64,logistic,0.001,100,sgd,4.562700033187866,0.027823686599731445,0.8794900205992956,0.8414534195752489
+1,"age, campaign, pdays, nr.employed, education_cat, month_cat, contact_cat, day_of_week_cat, y_cat, ",69,20,36537,36537,31898,64,logistic,0.001,100,sgd,4.611409902572632,0.016297101974487305,0.8795969249948057,0.8413849733132612
+2,"age, campaign, pdays, nr.employed, education_cat, month_cat, contact_cat, day_of_week_cat, y_cat, ",69,20,36537,36537,31898,64,logistic,0.001,100,sgd,3.68821120262146,0.01636195182800293,0.742316661705442,0.7372611862166045
+3,"age, campaign, pdays, nr.employed, education_cat, month_cat, contact_cat, day_of_week_cat, y_cat, ",69,20,36537,36537,31898,64,logistic,0.001,100,sgd,4.116696119308472,0.01774001121520996,0.6582490448450337,0.6569246849168558
+4,"age, campaign, pdays, nr.employed, education_cat, month_cat, contact_cat, day_of_week_cat, y_cat, ",69,20,36537,36537,31898,64,logistic,0.001,100,sgd,4.154937744140625,0.015401363372802734,0.20795363709032774,0.3560284658546599

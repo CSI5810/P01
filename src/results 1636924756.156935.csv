@@ -1,0 +1,6 @@
+,feature_list,TTT_seed,MLP_seed,smote_yes,smote_no,smote_yes_oversample,hidden_layers,activation_function,learning_rate,batch_size,solver,fit_time,score_time,test_precision_macro,test_recall_macro
+0,"age, campaign, pdays, nr.employed, education_cat, y_cat, ",50,97,36537,36537,31898,64,logistic,0.001,100,sgd,3.4745588302612305,0.027128219604492188,0.8835817761914759,0.8482277268372793
+1,"age, campaign, pdays, nr.employed, education_cat, y_cat, ",50,97,36537,36537,31898,64,logistic,0.001,100,sgd,3.4590039253234863,0.017941951751708984,0.8832197168327216,0.8476118790201177
+2,"age, campaign, pdays, nr.employed, education_cat, y_cat, ",50,97,36537,36537,31898,64,logistic,0.001,100,sgd,3.4856278896331787,0.01566314697265625,0.8659721526595212,0.8169129720853858
+3,"age, campaign, pdays, nr.employed, education_cat, y_cat, ",50,97,36537,36537,31898,64,logistic,0.001,100,sgd,3.526533842086792,0.01587700843811035,0.6589470769642886,0.6576089040890153
+4,"age, campaign, pdays, nr.employed, education_cat, y_cat, ",50,97,36537,36537,31898,64,logistic,0.001,100,sgd,4.147374153137207,0.015465021133422852,0.20855934907466497,0.3578075817709046

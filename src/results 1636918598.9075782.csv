@@ -1,0 +1,3 @@
+,TTT_seed,MLP_seed,smote_yes,smote_no,smote_yes_oversample,hidden_layers,activation_function,learning_rate,batch_size,solver,ellapsed_time,train,test
+0,74,87,36537,36537,31898,8,logistic,0.1,100,sgd,21.25422692298889,0.7652029627602251,0.7603147451248717
+1,10,86,36537,36537,31898,8,logistic,0.1,100,sgd,11.516011953353882,0.7535366667236867,0.7556619911050291
